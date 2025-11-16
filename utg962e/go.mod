@@ -1,3 +1,5 @@
 module github.com/notrobot1/utg962e
 
 go 1.23.0
+
+require github.com/google/gousb v1.1.3 // indirect
